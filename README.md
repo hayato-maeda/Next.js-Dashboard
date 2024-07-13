@@ -1,5 +1,12 @@
-## Next.js App Router Course - Starter
+## Overview
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+Next.js学習用リポジトリ
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+簡易的な財務ダッシュボードを作成する<br/>
+作成はNext.jsが[公式チュートリアル](https://nextjs.org/learn/dashboard-app)を利用する
+
+## Gitコミットルール
+
+- [Conventional Commits](https://www.conventionalcommits.org/ja/v1.0.0/)を採用する
+- Pull Requestはチャプター単位で作成する
+- チャプター以外のPull Requestについては適宜作成する
