@@ -3,7 +3,7 @@
 Next.js学習用リポジトリ
 
 簡易的な財務ダッシュボードを作成する<br/>
-作成はNext.jsが[公式チュートリアル](https://nextjs.org/learn/dashboard-app)を利用する
+作成はNext.jsが提供している[公式チュートリアル](https://nextjs.org/learn/dashboard-app)を利用する
 
 ## Gitコミットルール
 
