@@ -10,3 +10,4 @@ Next.js学習用リポジトリ
 - [Conventional Commits](https://www.conventionalcommits.org/ja/v1.0.0/)を採用する
 - Pull Requestはチャプター単位で作成する
 - チャプター以外のPull Requestについては適宜作成する
+あ
